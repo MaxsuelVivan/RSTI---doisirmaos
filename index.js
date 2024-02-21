@@ -65,7 +65,51 @@ funcaonome("nome"); // <--funcao sendo chamada
 //funcaNome("Max");
 */
 
-    
+9./*const a = 1
+
+function imprimiVariável () {
+ const b = 2
+console.log('Variável a', a)
+console.log('Variável b', b)
+
+imprimiVariável()
+
+console.log('Variável a', a)
+console.log('Variável b', b)
+*/
+
+10./*function calculaArea(altura, largura) {
+    const area = altura * largura
+    return area 
+}
+
+ 11. // Atribut retorno a uma variável
+const areaCalculada = CalculaArea(2,3)
+
+// Imprime retorno no console
+console. log (calculaArea(2,3)}
+*/
+
+12./*function somaDoisNumeros(numa,numb){
+    return numa + numb;
+}
+var resultado = somaDoisNumeros(3,5);
+console.log(resultado);
+*/
+
+13./*function recebeArray(arrayDeNumeros){
+  return [(arrayDeNumeros.lenght -1), arrayDeNumeros[0];
+}
+
+console.log(recebeArray([1,2,3,4,5,6,7,8,9]));
+*/
+
+
+
+
+
+
+
 
 
 
